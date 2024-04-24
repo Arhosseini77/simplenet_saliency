@@ -87,6 +87,12 @@ Comparison with other state-of-the-art saliency detection models on MIT300 test 
 ![](./extras/mit_results.png)
 ## Qualitative Results
 
+
+## New Weith link
+```
+magnet:?xt=urn:btih:23112f5ae692658388ebfe0db3973e552b95cad9&dn=saved_models.tar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+```
+
 ## Contact 
 If any question, please contact samyak.j@research.iiit.ac.in, navyasri.reddy@research.iiit.ac.in or pradeep.yarlagadda@students.iiit.ac.in , or use public issues section of this repository
 
