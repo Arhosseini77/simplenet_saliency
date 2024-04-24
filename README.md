@@ -88,7 +88,7 @@ Comparison with other state-of-the-art saliency detection models on MIT300 test 
 ## Qualitative Results
 
 
-## New Weith link
+## New Weight link
 ```
 magnet:?xt=urn:btih:23112f5ae692658388ebfe0db3973e552b95cad9&dn=saved_models.tar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 ```
